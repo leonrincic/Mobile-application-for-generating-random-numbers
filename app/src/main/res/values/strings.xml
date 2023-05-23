@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RandomNumberGenerator</string>
+    <string name="gyroscope">Gyroscope</string>
+    <string name="pressure">Pressure</string>
+    <string name="current_date_and_time">Current Date and Time</string>
+    <string name="my_final_random_number">My final random number</string>
+    <string name="random_number_generatror">Random Number Generator</string>+
+    <string name="accelerometer">Accelerometer</string>
+    <string name="current_user_location">Current user location</string>
+</resources>
